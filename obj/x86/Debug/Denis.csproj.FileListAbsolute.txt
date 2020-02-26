@@ -1,0 +1,3 @@
+G:\C#\quebra cabeça\Denis\Denis\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#\quebra cabeça\Denis\Denis\obj\x86\Debug\Denis.MainForm.resources
+G:\C#\quebra cabeça\Denis\Denis\obj\x86\Debug\Denis.csproj.GenerateResource.Cache
